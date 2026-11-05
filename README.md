@@ -1,3 +1,18 @@
+<!-- MINDSLAB-PAPER-METADATA:START -->
+# DIAL
+
+**Paper:** DIAL: Direction-Informed Adaptive Learning for LLM Agents
+
+**Title on the linked paper:** Same Signal, Opposite Meaning: Direction-Informed Adaptive Learning for LLM Agents
+
+**Authors:** Ziming Li, Jiatan Huang, Xiaoguang Guo, Guiling Wang, Chuxu Zhang
+
+**Paper link:** [2605.06908](https://arxiv.org/abs/2605.06908)
+
+<!-- MINDSLAB-PAPER-METADATA:END -->
+
+---
+
 # DIAL: Direction-Informed Adaptive Learning
 
 > Same Signal, Opposite Meaning: Why Adaptive Compute Fails Across Environments — and how a sparse linear gate fixes it.
